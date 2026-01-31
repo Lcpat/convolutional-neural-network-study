@@ -1,8 +1,7 @@
 # convolutional-neural-network-study
-**Description:** A study in convolutional neural networks (CNN) using CIFAR-10 as a base model 
+<u>**!NOTE: WIP! THIS REPO IS CURRENTLY IN DEVELOPMENT**</u>
 
-# !Note: WIP!
-This repo currently in development 
+**Description:** A study in convolutional neural networks (CNN) using CIFAR-10 as a base model 
 
 **Goal:** Understand how configuration and training affect performance/generalization in artificial intelligence.  
 
